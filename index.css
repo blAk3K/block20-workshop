@@ -1,0 +1,12 @@
+body {
+  padding: 1rem;
+  background-color: aqua;
+}
+
+output {
+  display: block;
+  min-height: 1rem;
+  padding: 0.5rem;
+  border: 5px solid black;
+  border-radius: 3px;
+}
